@@ -1,18 +1,19 @@
 # Chinese App
 | Name | Url | Available | Date |
 | --- | --- | --- | -- |
-| DAMA | [https://testflight.apple.com/join/q7EMTnCR](https://testflight.apple.com/join/q7EMTnCR) | Y | 2022-10-06 |
-| iCost 记账 | [https://testflight.apple.com/join/pm1jk978](https://testflight.apple.com/join/pm1jk978) | Y | 2022-07-27 |
-| Maxthon Cloud Web Browser | [https://testflight.apple.com/join/ONuHkBRv](https://testflight.apple.com/join/ONuHkBRv) | Y | 2022-03-15 |
-| YY-直播交友软件 beta | [https://testflight.apple.com/join/bqpyUuHJ](https://testflight.apple.com/join/bqpyUuHJ) | Y | 2022-03-15 |
-| 微信读书 | [https://testflight.apple.com/join/5MWjLpYl](https://testflight.apple.com/join/5MWjLpYl) | Y | 2022-08-23 |
+| iCost 记账 | [https://testflight.apple.com/join/pm1jk978](https://testflight.apple.com/join/pm1jk978) | Y | 2022-12-04 |
+| Maxthon Cloud Web Browser | [https://testflight.apple.com/join/ONuHkBRv](https://testflight.apple.com/join/ONuHkBRv) | Y | 2022-12-07 |
+| 微信读书 | [https://testflight.apple.com/join/5MWjLpYl](https://testflight.apple.com/join/5MWjLpYl) | Y | 2022-11-03 |
 | Angelia | [https://testflight.apple.com/join/i37NXl07](https://testflight.apple.com/join/i37NXl07) | Y | 2022-09-23 |
 | 滴答清单 TickTick | [https://testflight.apple.com/join/vWQPDFQU](https://testflight.apple.com/join/vWQPDFQU) | Y | 2022-03-15 |
-| 知乎 | [https://testflight.apple.com/join/TX83Mn7J](https://testflight.apple.com/join/TX83Mn7J) | Y | 2022-08-12 |
-| 我的世界-网易 | [https://testflight.apple.com/join/mOxZm1dD](https://testflight.apple.com/join/mOxZm1dD) | Y | 2022-08-30 |
-| 百度贴吧 | [https://testflight.apple.com/join/GgBqXAqm](https://testflight.apple.com/join/GgBqXAqm) | F | 2022-08-22 |
-| 熊猫吃短信 - 垃圾短信过滤 beta | [https://testflight.apple.com/join/PUlWiCNO](https://testflight.apple.com/join/PUlWiCNO) | F | 2022-09-29 |
+| 百度贴吧 | [https://testflight.apple.com/join/GgBqXAqm](https://testflight.apple.com/join/GgBqXAqm) | Y | 2022-12-16 |
+| 知乎 | [https://testflight.apple.com/join/TX83Mn7J](https://testflight.apple.com/join/TX83Mn7J) | Y | 2022-10-18 |
+| 我的世界-网易 | [https://testflight.apple.com/join/mOxZm1dD](https://testflight.apple.com/join/mOxZm1dD) | Y | 2022-10-27 |
+| 事线 - 串事成线 | [https://testflight.apple.com/join/grxohdR3](https://testflight.apple.com/join/grxohdR3) | Y | 2023-01-05 |
+| Weibo intl. beta | [https://testflight.apple.com/join/2LslNUOW](https://testflight.apple.com/join/2LslNUOW) | Y | 2023-01-19 |
+| 微信键盘 beta | [https://testflight.apple.com/join/iSTXkF4K](https://testflight.apple.com/join/iSTXkF4K) | F | 2023-01-03 |
 | biubiu加速器 | [https://testflight.apple.com/join/Fk8KzSnv](https://testflight.apple.com/join/Fk8KzSnv) | N | 2022-03-15 |
+| DAMA | [https://testflight.apple.com/join/q7EMTnCR](https://testflight.apple.com/join/q7EMTnCR) | N | 2022-12-04 |
 | QQ | [https://testflight.apple.com/join/5wZk5yYi](https://testflight.apple.com/join/5wZk5yYi) | N | 2022-05-19 |
 | XMind | [https://testflight.apple.com/join/5Z2wXADj](https://testflight.apple.com/join/5Z2wXADj) | N | 2022-03-15 |
 | 七猫小说 | [https://testflight.apple.com/join/UaD5Pl6t](https://testflight.apple.com/join/UaD5Pl6t) | N | 2022-03-15 |
@@ -44,24 +45,8 @@
 | 讯飞输入法 | [https://testflight.apple.com/join/P7p592l7](https://testflight.apple.com/join/P7p592l7) | N | 2022-03-16 |
 | 豌豆多多 | [https://testflight.apple.com/join/gbcprIXM](https://testflight.apple.com/join/gbcprIXM) | N | 2022-03-15 |
 | 迅雷 | [https://testflight.apple.com/join/vAEklLsb](https://testflight.apple.com/join/vAEklLsb) | N | 2022-03-15 |
-| 酷安 - 发现科技新生活 | [https://testflight.apple.com/join/9ennNtu2](https://testflight.apple.com/join/9ennNtu2) | N | 2022-03-15 |
 | 阿里云盘 | [https://testflight.apple.com/join/yi8oG8bi](https://testflight.apple.com/join/yi8oG8bi) | N | 2022-03-15 |
 | 枕边语pillowtalk-服务器监控工具 | [https://testflight.apple.com/join/UIW76yDz](https://testflight.apple.com/join/UIW76yDz) | N | 2022-03-16 |
 | 黑匣子 Player | [https://testflight.apple.com/join/uCsUGsvN](https://testflight.apple.com/join/uCsUGsvN) | N | 2022-03-15 |
 | 程序员做饭指南 | [https://testflight.apple.com/join/976Esk4W](https://testflight.apple.com/join/976Esk4W) | N | 2022-06-23 |
-| QQ邮箱 | [https://testflight.apple.com/join/nhb7CprH](https://testflight.apple.com/join/nhb7CprH) | D | 2022-08-16 |
-| QQ阅读 | [https://testflight.apple.com/join/oUI6J91Z](https://testflight.apple.com/join/oUI6J91Z) | D | 2022-07-26 |
-| QQ音乐 | [https://testflight.apple.com/join/nouemc2T](https://testflight.apple.com/join/nouemc2T) | D | 2022-07-18 |
-| QQ音乐 HD | [https://testflight.apple.com/join/AvhmiF73](https://testflight.apple.com/join/AvhmiF73) | D | 2022-07-07 |
-| 京东 | [https://testflight.apple.com/join/geAtB7Mp](https://testflight.apple.com/join/geAtB7Mp) | D | 2022-07-19 |
-| 今日头条 | [https://testflight.apple.com/join/eiVccFIZ](https://testflight.apple.com/join/eiVccFIZ) | D | 2022-09-07 |
-| 微信 | [https://testflight.apple.com/join/IRZEkA2H](https://testflight.apple.com/join/IRZEkA2H) | D | 2022-08-10 |
-| 招商银行 | [https://testflight.apple.com/join/E4PbSU5R](https://testflight.apple.com/join/E4PbSU5R) | D | 2022-09-20 |
-| 支付宝 | [https://testflight.apple.com/join/AGmpZfit](https://testflight.apple.com/join/AGmpZfit) | D | 2022-07-08 |
-| 百度输入法 | [https://testflight.apple.com/join/Xd0EnJJJ](https://testflight.apple.com/join/Xd0EnJJJ) | D | 2022-08-20 |
-| 网易云音乐 | [https://testflight.apple.com/join/hx2JGQPO](https://testflight.apple.com/join/hx2JGQPO) | D | 2022-08-24 |
-| 网易云音乐 | [https://testflight.apple.com/join/iNbrKSVg](https://testflight.apple.com/join/iNbrKSVg) | D | 2022-08-24 |
-| 豆瓣 | [https://testflight.apple.com/join/OXkZhrB3](https://testflight.apple.com/join/OXkZhrB3) | D | 2022-08-02 |
-| 酷狗音乐 HD | [https://testflight.apple.com/join/Smx1hhM8](https://testflight.apple.com/join/Smx1hhM8) | D | 2022-08-22 |
-| 陌陌 | [https://testflight.apple.com/join/Dyl1Po6h](https://testflight.apple.com/join/Dyl1Po6h) | D | 2022-09-29 |
-| 高德地图 | [https://testflight.apple.com/join/b3SoyP3z](https://testflight.apple.com/join/b3SoyP3z) | D | 2022-07-30 |
+| 熊猫吃短信 - 垃圾短信过滤 beta | [https://testflight.apple.com/join/PUlWiCNO](https://testflight.apple.com/join/PUlWiCNO) | N | 2022-12-01 |
